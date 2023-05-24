@@ -1,0 +1,28 @@
+
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+
+.card-img-tiles {
+    display: block;
+    border-bottom: 1px solid #e1e7ec;
+}
+
+a {
+    color: #0da9ef;
+    text-decoration: none !important;
+}
+
+.card-img-tiles>.inner {
+    display: table;
+    width: 100%;
+}
+
+
+
+.btn-group-sm>.btn, .btn-sm {
+    padding: .45rem .5rem !important;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+}
