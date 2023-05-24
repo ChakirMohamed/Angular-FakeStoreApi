@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./product-item.component.css']
 })
 export class ProductItemComponent {
-
+  med:any="jj";
 }
